@@ -38,7 +38,7 @@ Example:
 ![3x3_example](Images/3x3_example.PNG)
 
 ## Setup
-Clone the repo using `git clone REPO`
+Clone the repo using `git clone https://github.com/boomitsnoom/rpm_agent.git`
 
 Ensure that Python is installed on your machine. If not, install the latest version of [Python](https://www.python.org/downloads/). It is also recommended to create a virtual environment when running the RPM agent. More details on creating a virtual enviroment can be found [here](https://docs.python-guide.org/dev/virtualenvs/).
 
